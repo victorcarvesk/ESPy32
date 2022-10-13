@@ -165,7 +165,6 @@ class Stepper:
     def target_speed(self, new_speed):
         self._target_speed = new_speed
         self._target_step_us = self.get_step_us(self.target_speed)
-        print(f"step_us setado: {self._target_step_us}")
     
     @property
     def accel_rate(self):
