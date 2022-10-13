@@ -1,0 +1,9 @@
+{
+    "MQTT_CLIENT_ID": "ESP32.1",
+    "MQTT_BROKER": "10.0.0.107",
+    "MQTT_USER": "joao",
+    "MQTT_PASSWORD": "passwd",
+    "MQTT_TOPIC": "/topic1",
+    "WIFI_SSID": "Vida saudavel",
+    "WIFI_PASSWORD": "lalu180284"
+}
